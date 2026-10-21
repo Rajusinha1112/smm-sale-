@@ -1,5 +1,5 @@
-/* Preview scaffold only. Replace these placeholders after the Supabase project/schema audit. */
+/* Public browser config only. Never put a Supabase service-role key here. */
 window.SMM_SUPABASE_CONFIG = Object.freeze({
-  url: 'https://YOUR_PROJECT_REF.supabase.co',
-  publishableKey: 'YOUR_SUPABASE_PUBLISHABLE_OR_ANON_KEY'
+  url: 'https://eyytjrdyacalgdxyhqzq.supabase.co',
+  publishableKey: 'sb_publishable_9yUU9iTdD0xQsmyXO_M8-Q_sT_K0muW'
 });
